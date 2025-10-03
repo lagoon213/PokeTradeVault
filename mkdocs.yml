@@ -1,0 +1,13 @@
+site_name: PokeTradeVault
+nav:
+  - Account Page: Account Page.md
+  - Admin Panel: admin panel.md
+  - Card: Card.md
+  - Main Page: Main Page.md
+  - Search Engine: Search Engine.md
+  - Trade Algorithm: Trade Algorithm.md
+  - Trade Inventory: Trade Inventory.md
+  - Trading: Trading.md
+  - User: User.md
+theme:
+  name: material

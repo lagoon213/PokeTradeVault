@@ -1,0 +1,1 @@
+The trade algorithm will be a tool that makes trading a lot easier, this way users don't have to search manually for trades that fit their needs. The algorithm will require that the [[User]] adds his desired and owned cards to the [[Trade Inventory]] 
