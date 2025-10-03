@@ -1,1 +1,1 @@
-Op de admin panel wordt 
+This panel is used by admins, here they can add, update or delete the data in the database. 
