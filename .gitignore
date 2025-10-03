@@ -1,0 +1,10 @@
+# Obsidian workspace files (user-specific, should not be committed)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+
+# OS generated files
+.DS_Store
+Thumbs.db
